@@ -1,0 +1,25 @@
+_repo: Liberdade-de-Imprensa_34274
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Magalhães, José Maria Barbosa de
+    alias: Magalhaes, Jose Maria Barbosa de
+    gutenberg_agent_id: '36928'
+    url: http://www.gutenberg.org/2009/agents/36928
+description: ''
+gutenberg_issued: '2010-11-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34274'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Freedom of the press -- Portugal'
+- !lcc 'DP'
+title: Liberdade de Imprensa
+url: http://www.gutenberg.org/ebooks/34274
